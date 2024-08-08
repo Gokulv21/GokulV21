@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulv2119&label=Profile%20views&color=0e75b6&style=flat" alt="gokulv2119" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **BIG DATA ANALYTICS**
 
-- 💬 Ask me about **Android, Python, React Native**
+- 💬 Ask me about **Android, Python, Microsoft powerBI**
 
 - 📫 How to reach me **gokie210402@gmail.com**
 
