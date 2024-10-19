@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulv2119&label=Profile%20views&color=0e75b6&style=flat" alt="gokulv2119" /> </p>
 
-- 🌱 I’m currently learning **BIG DATA ANALYTICS**
+- 🌱 I’m currently learning **HUMAN CENTERED ARTIFICIAL INTELLIGENCE**
 
 - 💬 Ask me about **Android, Python, Microsoft powerBI**
 
