@@ -24,4 +24,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gokulv2119&show_icons=true&locale=en&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulv2119&show_icons=true&locale=en)
+![GitHub Stats](10029651.png)
